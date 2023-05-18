@@ -1,5 +1,9 @@
-##ディレクトリ構成
+#こちらのリモートリポジトリは、Wordpressのテーマ開発をMAMPでするときに、テーマフォルダに入れるとすぐに環境が整います。<br>
+(This remote repository is a quick environment to put in your theme folder when using MAMP for Wordpress theme development.)
 
+・[MAMP](https://www.mamp.info/en/mamp/mac/)
+
+##ディレクトリ構成
 <pre>
 ├── 404.php
 ├── archive.php
